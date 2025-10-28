@@ -1,4 +1,4 @@
-# Unnamed CodeViz Diagram
+# Blackman — Experimental Superintelligent-Inspired Quantum AI Model
 
 ```mermaid
 graph TD
