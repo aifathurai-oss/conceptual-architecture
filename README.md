@@ -26,7 +26,7 @@ Proyek ini saya buat sendiri, di waktu luang — tanpa target, tanpa tekanan, ha
 
 Berikut diagram arsitektur yang saya rancang:
 
-![Blackman Architecture](Workspace-3.md)
+![Blackman Architecture](Workspace.jpg)
 
 Diagram ini saya sebut **Cognitive Blueprint** — semacam peta otak buatan untuk sistem modular.  
 Setiap modul punya peran masing-masing, dan semuanya bisa berinteraksi layaknya ekosistem kecil di dalam satu pikiran digital.
